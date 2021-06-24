@@ -36,7 +36,7 @@
           </div>
         </div>
         <div class="card-body">
-          Start creating your amazing application!
+          Start selling your products
         </div>
         <!-- /.card-body -->
         <div class="card-footer">
